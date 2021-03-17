@@ -1,0 +1,20 @@
+:root {
+	/* Font [Kumbh Sans] */
+	--font-family: url(https://fonts.google.com/specimen/Kumbh+Sans);
+	/* Weights: 400, 700; */
+	
+	/* width sizes */
+	--width-mobile: 375px;
+	--width-desktop: 1440px;
+
+	--dark-cyan: hsl(185, 75%, 39%);
+	/* Very dark desaturated blue */
+	--very-dark-blue: hsl(229, 23%, 23%);
+	/* Dark grayish blue */
+	--dark-grayish-blue: hsl(227, 10%, 46%);
+	
+	/* Font size (name and stats) */
+		--smaller-size: 18px;
+		/* Dark gray */
+		--smaller-color: hsl(0, 0%, 59%);
+}
